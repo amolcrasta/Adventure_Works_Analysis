@@ -1,4 +1,4 @@
-# Adventure Works Sales Analysis | Capstone Project
+# Adventure Works Sales Analysis
 
 ## Project Overview
 This project analyzes the Adventure Works dataset to evaluate sales performance, customer behavior, and regional profitability.
@@ -115,4 +115,5 @@ Aspiring Data Analyst
 - Business Analytics  
 - KPI Development  
 - Dashboard Design (Power BI)  
+
 - Data Interpretation  
